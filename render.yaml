@@ -15,23 +15,23 @@ services:
     #startCommand: npm start
     envVars:
       - key: BotName
-        value: ""
+        value: "Light-md"
       - key: Footer
-        value: "© Queen Anya Bot"
+        value: "© LIGHTMKER Bot"
       - key: Prefix
-        value: "-"
+        value: "."
       - key: ThemeEmoji
         value: "🎐"
       - key: Owner_Name
-        value: "Pika~Kun"
+        value: "Lightmaker"
       - key: Owner_Number
-        value: "91881107xxxx"
+        value: "263714138336"
       - key: Insta
         value: "3.69_pika"
       - key: Author
         value: "PikaBotz"
       - key: PackName
-        value: "Queen Anya • Stickers"
+        value: "Lightmakerbot• Stickers"
       - key: Web
         value: "https://github.com/PikaBotz"
       - key: GcLink
@@ -45,4 +45,4 @@ services:
       - key: MongoDB
         value: "YOUR_MONGODB_URL"
       - key: SESSION_ID
-        value: "YOUR_SESSION_ID"
+        value: "6Xq_A_N_Y_A_V_2_qsSr12gkyWSWwIsK3"
